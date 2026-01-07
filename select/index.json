@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "Moon Crying",
+  "base_artist": "倖田來未",
+  "createdAt": "2026-01-07T17:27:51.102963Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Moon Crying",
+      "artist": "Kumi Koda",
+      "has_synced": true,
+      "path": "select/01_Moon_Crying_Kumi_Koda.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Moon Crying",
+      "artist": "KODA KUMI",
+      "has_synced": true,
+      "path": "select/02_Moon_Crying_KODA_KUMI.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Moon Crying",
+      "artist": "KODA KUMI",
+      "has_synced": true,
+      "path": "select/03_Moon_Crying_KODA_KUMI.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Moon Crying - GTS SH Club Mix",
+      "artist": "Kumi Koda",
+      "has_synced": false,
+      "path": "select/04_Moon_Crying_-_GTS_SH_Club_Mix_Kumi_Koda.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Moon Crying (GTS SH Club Mix)",
+      "artist": "Koda Kumi",
+      "has_synced": false,
+      "path": "select/05_Moon_Crying_(GTS_SH_Club_Mix)_Koda_Kumi.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Moon Crying (live version in Taiwan)",
+      "artist": "Kumi Koda",
+      "has_synced": true,
+      "path": "select/06_Moon_Crying_(live_version_in_Taiwan)_Kumi_Koda.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Moon Crying (live version in Taiwan)",
+      "artist": "KODA KUMI",
+      "has_synced": true,
+      "path": "select/07_Moon_Crying_(live_version_in_Taiwan)_KODA_KUMI.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Moon Crying",
+      "artist": "Kumi Koda",
+      "has_synced": true,
+      "path": "select/08_Moon_Crying_Kumi_Koda.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Moon Crying",
+      "artist": "Koda Kumi",
+      "has_synced": true,
+      "path": "select/09_Moon_Crying_Koda_Kumi.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Moon Crying",
+      "artist": "倖田來未",
+      "has_synced": true,
+      "path": "select/10_Moon_Crying_倖田來未.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Moon Crying",
+      "artist": "倖田來未",
+      "has_synced": true,
+      "path": "select/11_Moon_Crying_倖田來未.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Moon Crying",
+      "artist": "倖田 來未",
+      "has_synced": false,
+      "path": "select/pl_01_Moon_Crying_倖田_來未.txt"
+    }
+  ]
+}
